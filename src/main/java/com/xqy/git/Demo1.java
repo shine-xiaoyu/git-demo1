@@ -6,6 +6,7 @@ public class Demo1 {
 	public static void main(String[] args) {
 		//输出 
 		System.out.println("aaa");
+		System.out.println("222");
 	}
 	
 }
