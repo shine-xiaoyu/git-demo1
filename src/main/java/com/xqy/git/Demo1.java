@@ -8,7 +8,7 @@ public class Demo1 {
 		System.out.println("aaa");
 		//打印222
 		System.out.println("222");
-		
+		//我还想打印一个3
 	}
 	
 }
